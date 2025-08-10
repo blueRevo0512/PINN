@@ -1,0 +1,46 @@
+{
+  "config": {
+    "mode": "full",
+    "charge_type": "square",
+    "output_base_dir": "./outputs_pytorch_square",
+    "model_config": {
+      "layer_sizes": [
+        2,
+        64,
+        64,
+        64,
+        1
+      ],
+      "activation": "tanh"
+    },
+    "optimization_config": {
+      "adam_iterations": 12000,
+      "adam_lr": 0.001,
+      "scheduler_patience": 500,
+      "scheduler_factor": 0.8,
+      "weight_decay": 1e-06,
+      "grad_clip": 1.0
+    },
+    "noise_levels": [
+      0.0,
+      0.01,
+      0.02,
+      0.05
+    ],
+    "measurement_points": [
+      200,
+      400,
+      800,
+      1500
+    ],
+    "domain_size": 1.0,
+    "grid_resolution": 100,
+    "batch_size": 2048,
+    "force_retrain_fwd": false,
+    "force_retrain_inv": false
+  },
+  "total_time": 2152.207111597061,
+  "device": "cuda",
+  "torch_version": "2.7.0+cu126",
+  "timestamp": "2025-06-01T22:07:44.015873"
+}
