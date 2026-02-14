@@ -1,0 +1,181 @@
+{
+  "charge_type": "square",
+  "records": [
+    {
+      "charge_type": "square",
+      "num_points": 200,
+      "noise_percent": 0,
+      "mse": 0.5318943858146667,
+      "mae": 0.4094269871711731,
+      "correlation": 0.8628136747368577,
+      "best_loss": 0.001272515393793583,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_200_noise_0_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_200_noise_0.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 200,
+      "noise_percent": 1,
+      "mse": 0.5012468695640564,
+      "mae": 0.3984065353870392,
+      "correlation": 0.8709962977651642,
+      "best_loss": 0.001447484828531742,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_200_noise_1_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_200_noise_1.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 200,
+      "noise_percent": 2,
+      "mse": 0.4882664978504181,
+      "mae": 0.37918001413345337,
+      "correlation": 0.8739622989558821,
+      "best_loss": 0.0016433128621429205,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_200_noise_2_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_200_noise_2.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 200,
+      "noise_percent": 5,
+      "mse": 0.49800345301628113,
+      "mae": 0.39765146374702454,
+      "correlation": 0.8706448544420013,
+      "best_loss": 0.003908216953277588,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_200_noise_5_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_200_noise_5.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 400,
+      "noise_percent": 0,
+      "mse": 0.5094284415245056,
+      "mae": 0.41292303800582886,
+      "correlation": 0.8686727013971576,
+      "best_loss": 0.0014341979986056685,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_400_noise_0_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_400_noise_0.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 400,
+      "noise_percent": 1,
+      "mse": 0.5148873925209045,
+      "mae": 0.40357932448387146,
+      "correlation": 0.8666015221845462,
+      "best_loss": 0.0015338839730247855,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_400_noise_1_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_400_noise_1.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 400,
+      "noise_percent": 2,
+      "mse": 0.5002366900444031,
+      "mae": 0.3944190442562103,
+      "correlation": 0.8706700030851512,
+      "best_loss": 0.0016696033999323845,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_400_noise_2_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_400_noise_2.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 400,
+      "noise_percent": 5,
+      "mse": 0.49020904302597046,
+      "mae": 0.403662770986557,
+      "correlation": 0.873900962802354,
+      "best_loss": 0.004859801847487688,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_400_noise_5_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_400_noise_5.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 800,
+      "noise_percent": 0,
+      "mse": 0.49660128355026245,
+      "mae": 0.39681699872016907,
+      "correlation": 0.8721206392958448,
+      "best_loss": 0.001393997808918357,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_800_noise_0_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_800_noise_0.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 800,
+      "noise_percent": 1,
+      "mse": 0.5146863460540771,
+      "mae": 0.39973223209381104,
+      "correlation": 0.8675230742477845,
+      "best_loss": 0.0018745817942544818,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_800_noise_1_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_800_noise_1.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 800,
+      "noise_percent": 2,
+      "mse": 0.5090144276618958,
+      "mae": 0.4092954695224762,
+      "correlation": 0.8682798478363245,
+      "best_loss": 0.0022171149030327797,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_800_noise_2_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_800_noise_2.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 800,
+      "noise_percent": 5,
+      "mse": 0.46642646193504333,
+      "mae": 0.3697633445262909,
+      "correlation": 0.8797731248238813,
+      "best_loss": 0.0046287053264677525,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_800_noise_5_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_800_noise_5.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 1500,
+      "noise_percent": 0,
+      "mse": 0.5158554911613464,
+      "mae": 0.4056055545806885,
+      "correlation": 0.866810435131132,
+      "best_loss": 0.0016060371417552233,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_1500_noise_0_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_1500_noise_0.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 1500,
+      "noise_percent": 1,
+      "mse": 0.5074424743652344,
+      "mae": 0.3992067277431488,
+      "correlation": 0.8693517042482555,
+      "best_loss": 0.0016040696064010262,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_1500_noise_1_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_1500_noise_1.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 1500,
+      "noise_percent": 2,
+      "mse": 0.5007209777832031,
+      "mae": 0.3975226581096649,
+      "correlation": 0.8706387826923684,
+      "best_loss": 0.0020728032104671,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_1500_noise_2_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_1500_noise_2.png"
+    },
+    {
+      "charge_type": "square",
+      "num_points": 1500,
+      "noise_percent": 5,
+      "mse": 0.46759864687919617,
+      "mae": 0.39006686210632324,
+      "correlation": 0.880662801350284,
+      "best_loss": 0.0045145293697714806,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\square\\inverse_pts_1500_noise_5_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\square\\inverse_pts_1500_noise_5.png"
+    }
+  ]
+}

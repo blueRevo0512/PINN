@@ -1,0 +1,181 @@
+{
+  "charge_type": "gaussian",
+  "records": [
+    {
+      "charge_type": "gaussian",
+      "num_points": 200,
+      "noise_percent": 0,
+      "mse": 0.06219885125756264,
+      "mae": 0.1984390765428543,
+      "correlation": 0.9886973556701589,
+      "best_loss": 0.0009619977208785713,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_200_noise_0_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_200_noise_0.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 200,
+      "noise_percent": 1,
+      "mse": 0.12900884449481964,
+      "mae": 0.28215378522872925,
+      "correlation": 0.9769849131427651,
+      "best_loss": 0.0015337398508563638,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_200_noise_1_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_200_noise_1.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 200,
+      "noise_percent": 2,
+      "mse": 0.10707861185073853,
+      "mae": 0.2511112689971924,
+      "correlation": 0.9803078288157037,
+      "best_loss": 0.0020705212373286486,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_200_noise_2_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_200_noise_2.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 200,
+      "noise_percent": 5,
+      "mse": 0.09886305034160614,
+      "mae": 0.2502773702144623,
+      "correlation": 0.9820267311856352,
+      "best_loss": 0.006566711701452732,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_200_noise_5_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_200_noise_5.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 400,
+      "noise_percent": 0,
+      "mse": 0.06747996807098389,
+      "mae": 0.20604389905929565,
+      "correlation": 0.9877336492066945,
+      "best_loss": 0.000723592471331358,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_400_noise_0_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_400_noise_0.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 400,
+      "noise_percent": 1,
+      "mse": 0.08739831298589706,
+      "mae": 0.23166891932487488,
+      "correlation": 0.9844106906631606,
+      "best_loss": 0.0012938606087118387,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_400_noise_1_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_400_noise_1.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 400,
+      "noise_percent": 2,
+      "mse": 0.08161566406488419,
+      "mae": 0.21994160115718842,
+      "correlation": 0.9855272774839858,
+      "best_loss": 0.0017178487032651901,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_400_noise_2_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_400_noise_2.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 400,
+      "noise_percent": 5,
+      "mse": 0.09778839349746704,
+      "mae": 0.23891079425811768,
+      "correlation": 0.9823093465146044,
+      "best_loss": 0.007706542499363422,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_400_noise_5_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_400_noise_5.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 800,
+      "noise_percent": 0,
+      "mse": 0.08035475015640259,
+      "mae": 0.23002490401268005,
+      "correlation": 0.9854859100639218,
+      "best_loss": 0.0011879918165504932,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_800_noise_0_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_800_noise_0.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 800,
+      "noise_percent": 1,
+      "mse": 0.08377332985401154,
+      "mae": 0.2314537912607193,
+      "correlation": 0.9846660944865347,
+      "best_loss": 0.0015590018592774868,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_800_noise_1_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_800_noise_1.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 800,
+      "noise_percent": 2,
+      "mse": 0.0711851716041565,
+      "mae": 0.2109386920928955,
+      "correlation": 0.9869382829446564,
+      "best_loss": 0.0016459159087389708,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_800_noise_2_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_800_noise_2.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 800,
+      "noise_percent": 5,
+      "mse": 0.06889189779758453,
+      "mae": 0.20926713943481445,
+      "correlation": 0.9874650466406981,
+      "best_loss": 0.007064713630825281,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_800_noise_5_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_800_noise_5.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 1500,
+      "noise_percent": 0,
+      "mse": 0.07208015769720078,
+      "mae": 0.22367028892040253,
+      "correlation": 0.9870677013385429,
+      "best_loss": 0.0007639884715899825,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_1500_noise_0_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_1500_noise_0.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 1500,
+      "noise_percent": 1,
+      "mse": 0.10060062259435654,
+      "mae": 0.2590043246746063,
+      "correlation": 0.9817495707870598,
+      "best_loss": 0.0015681285876780748,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_1500_noise_1_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_1500_noise_1.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 1500,
+      "noise_percent": 2,
+      "mse": 0.05546649172902107,
+      "mae": 0.1901627629995346,
+      "correlation": 0.9900282383898743,
+      "best_loss": 0.0018164410721510649,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_1500_noise_2_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_1500_noise_2.png"
+    },
+    {
+      "charge_type": "gaussian",
+      "num_points": 1500,
+      "noise_percent": 5,
+      "mse": 0.06255348026752472,
+      "mae": 0.20126652717590332,
+      "correlation": 0.9888678983479529,
+      "best_loss": 0.007039968390017748,
+      "model_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\models\\gaussian\\inverse_pts_1500_noise_5_best.pth",
+      "plot_path": "outputs_refactor\\full_matrix_rerun_20260214_112937\\plots\\gaussian\\inverse_pts_1500_noise_5.png"
+    }
+  ]
+}

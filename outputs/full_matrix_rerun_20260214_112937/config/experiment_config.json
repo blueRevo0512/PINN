@@ -1,0 +1,53 @@
+{
+  "mode": "matrix",
+  "charge_types": [
+    "gaussian",
+    "square"
+  ],
+  "measurement_points": [
+    200,
+    400,
+    800,
+    1500
+  ],
+  "noise_percents": [
+    0,
+    1,
+    2,
+    5
+  ],
+  "model": {
+    "layer_sizes": [
+      2,
+      64,
+      64,
+      64,
+      1
+    ],
+    "activation": "tanh"
+  },
+  "optimization": {
+    "iterations": 12000,
+    "learning_rate": 0.001,
+    "weight_decay": 1e-06,
+    "grad_clip": 1.0,
+    "scheduler_patience": 500,
+    "scheduler_factor": 0.8,
+    "early_stop_patience": 2000,
+    "checkpoint_every": 500
+  },
+  "runtime": {
+    "seed": 42,
+    "domain_size": 1.0,
+    "grid_resolution": 100,
+    "domain_points": 4000,
+    "boundary_points": 400,
+    "output_dir": "./outputs_refactor",
+    "run_name": "full_matrix_rerun",
+    "log_level": "INFO",
+    "log_every": 100
+  },
+  "force_retrain_forward": true,
+  "force_retrain_inverse": true,
+  "resume": false
+}
